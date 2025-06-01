@@ -1,0 +1,10 @@
+1       -> Cadastrar um vídeo
+2       -> Cadastrar um usuário
+3       -> Listar todos os vídeos
+4       -> Listar todos os usuários
+5       -> Atualizar um vídeo
+6       -> Atualizar um usuário
+7       -> Remover um vídeo
+8       -> Remover um usuário
+9       -> Relatório de usuários com nomes dos vídeos favoritados
+0       -> Sair do programa
